@@ -1,0 +1,26 @@
+{
+  "name": "hn_api",
+  "version": "0.0.0",
+  "description": "Convenience library for interacting with the HNSearch API.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "async": "~0.2.9",
+    "request": "~2.30.0",
+    "hacker-news": "~0.0.1"
+  },
+  "devDependencies": {
+    "async": "~0.2.9"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "hackernews",
+    "hn"
+  ],
+  "author": "Max Thayer <garbados@gmail.com>",
+  "license": "MIT"
+}
