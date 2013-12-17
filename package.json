@@ -7,9 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "async": "~0.2.9",
     "request": "~2.30.0",
-    "hacker-news": "~0.0.1"
   },
   "devDependencies": {
     "async": "~0.2.9"
